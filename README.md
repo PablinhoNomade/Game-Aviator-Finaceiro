@@ -17,7 +17,7 @@ Além de contar com som de efeito ele também conta como animação do menu .
 "Lembre-se nunca aposte o que você não pode !";)
 
 PRINT DO JOGO 
-![](https://raw.githubusercontent.com/PablinhoNomade/Game-Aviator-Finaceiro/main/Print2.jpg)
+![](https://raw.githubusercontent.com/PablinhoNomade/Game-Aviator-Finaceiro/main/Print1.jpg)
 
 ![](https://raw.githubusercontent.com/PablinhoNomade/Game-Aviator-Finaceiro/main/Print2.jpg)
 
