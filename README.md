@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/PablinhoNomade/Game-Aviator-Finaceiro/blob/main/img/newcap.jpg)
+![](https://raw.githubusercontent.com/PablinhoNomade/Game-Aviator-Finaceiro/main/Print1.jpg)
 Obs:Para um melhor aproveitamento do jogo aconselhamos utiliza-lo em um aparelho celular
 # Finaceiro !
 
@@ -17,9 +17,9 @@ Além de contar com som de efeito ele também conta como animação do menu .
 "Lembre-se nunca aposte o que você não pode !";)
 
 PRINT DO JOGO 
-![](https://raw.githubusercontent.com/PablinhoNomade/Game-Aviator-Finaceiro/blob/main/Print1.jpg)
+![](https://raw.githubusercontent.com/PablinhoNomade/Game-Aviator-Finaceiro/main/Print2.jpg)
 
-![](https://raw.githubusercontent.com/PablinhoNomade/Game-Aviator-Finaceiro/blob/main/Print2.jpg)
+![](https://raw.githubusercontent.com/PablinhoNomade/Game-Aviator-Finaceiro/main/Print2.jpg)
 
 
 ----
