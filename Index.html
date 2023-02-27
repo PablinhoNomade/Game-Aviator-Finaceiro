@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title></title>
+
+	<link rel="shortcut icon" href="img/airplane.ico">
+	<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+	<link rel="stylesheet" type="text/css" href="css/demo.css" />
+	<link rel="stylesheet" type="text/css" href="css/component2.css" />
+
+	<script src="js/modernizr-2.6.2.min.js"></script>
+
+
+</head>
+
+<body>
+	<div class="container">
+
+
+		<header>
+			<div class="component">
+				<h1>Financeiro</h1>
+				<br></br>
+				<br></br>
+				<br></br>
+		</header>
+		<h2></h2>
+		<button class="cn-button" id="cn-button" onclick="menu()">Menu</button>
+		<div class=" cn-wrapper" id="cn-wrapper">
+			<ul>
+				<li><a onclick="play()"><span>Play Game</span></a></li>
+				<li><a onclick="historico()"><span>Históricos$</span></a></li>
+				<li><a onclick="saldo()"><span>Saldo$</span></a></li>
+
+			</ul>
+		</div>
+
+	</div>
+	<script>
+		var x = document.getElementById("myAudio");
+
+
+
+		function menu() {
+			const tiro = new Audio("som/dinheirosom.mp3");
+			tiro.load();
+			tiro.play();
+		}
+
+		function historico() {
+			const tiro = new Audio("som/dinheirosom.mp3");
+			tiro.load();
+			tiro.play();
+			setTimeout(function () {
+				window.open("src/historico.html", "_blank")
+			}, 2000)
+		}
+		function saldo() {
+			const tiro = new Audio("som/dinheirosom.mp3");
+			tiro.load();
+			tiro.play()
+			setTimeout(function () {
+				window.open("src/saldo.html", "_blank")
+			}, 2000)
+		}
+		function play() {
+			const tiro = new Audio("som/dinheirosom.mp3");
+			tiro.load();
+			tiro.play()
+			setTimeout(function () {
+				window.open("https://blaze.com/pt/games/aviator/fun", "_blank")
+			}, 2000)
+		}
+
+	</script>
+	</div>
+	<script src="js/polyfills.js"></script>
+	<script src="js/demo2.js"></script>
+
+</body>
+
+</html>
